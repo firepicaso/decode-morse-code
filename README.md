@@ -29,7 +29,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Ruby</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Ruby.rb</a></li>
   </ul>
