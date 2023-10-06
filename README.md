@@ -49,12 +49,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Undercostruction](<replace-with-your-deployment-URL>)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -118,10 +112,7 @@ Feel free to check the [issues page](https://github.com/firepicaso/decode-morse-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
+Kindly give us a star if you like this projrct.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
